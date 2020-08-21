@@ -16,7 +16,7 @@
 
 [<img align="left" alt="TutulDevs | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codepen.svg" />][codepen]
 
-[<img align="left" alt="TutulDevs | LinkedIn" width="22px" src="https://tutuldevs.github.io/frontloops-photo/etc/linkedin.svg" />][linkedin]
+[<img align="left" alt="TutulDevs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
