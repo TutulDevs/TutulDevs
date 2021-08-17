@@ -36,8 +36,10 @@
 <code><img alt="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img alt="Bootstrap" width="40px" src="https://brandeps.com/icon-download/B/Bootstrap-icon-vector-07.svg" /></code>
 <code><img alt="Tailwind CSS" width="40px" src="https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" /></code>
+<code><img alt="Material UI" width="40px" src="https://brandeps.com/icon-download/M/Material-ui-icon-vector-01.svg" /></code>
 <code><img alt="JavaScript" width="40px" src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" /></code>
 <code><img alt="Reactjs" width="40px" src="https://brandeps.com/icon-download/R/Reactjs-icon-vector-01.svg" /></code>
+<code><img alt="Nextjs" width="40px" src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" /></code>
 <code><img alt="Reduxjs" width="40px" src="https://brandeps.com/icon-download/R/Redux-icon-vector-02.svg" /></code>
 <code><img alt="FireBase" width="40px" src="https://brandeps.com/icon-download/F/Firebase-icon-vector-03.svg" /></code>
 <code><img alt="Git" width="40px" src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" /></code>
